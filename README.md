@@ -10,7 +10,7 @@ _FITM8_ Team - La Sapienza University. The project is organized by the following
 - **Falbo Mario Daniel** $|$ GitHub Profile: [danielfalbo](https://github.com/danielfalbo)
 - **Maatkulov Beksultan** $|$ GitHub Profile: [Thebeks312](https://github.com/Thebeks312)
 - **Pompei Chiara** $|$ GitHub Profile: [ChiaraNwk](https://github.com/ChiaraNwk)
-- **Melis Zhorobaev** $|$ GitHub Profile: [?](https://github.com/)
+- **Melis Zhorobaev** $|$ GitHub Profile: [Melo5en](https://github.com/Melo5en)
 
 The theme for the app design process this year was: **Fitness & Nutrition**
 
