@@ -63,22 +63,21 @@ The basic steps of creating the digital prototype are as follows, click to see t
 
 ### Task
 
-1. Open the plan your next workout pane
+1. Open the Create New Run pane
 2. Fill in the informations about your run
-3. Scroll through your next workout card in the home page
+3. Scroll through your next workouts card in the home page
 
 ### Scenario
 
 You're a regular runner who wants to plan a 5K run in Villa Borghese next Saturday morning. You'd like to invite other runners to join you for motivation and company. Use the app to create a new workout event and share it with the community.
 
-## Testing 2: Fina a suitable partner you would like to join on a run
+## Testing 2: Find a suitable partner you would like to join on a run
 
 ### Task
 
-1. Open the search modal view
+1. Open the Discover modal view
 2. Check out the other runnner profile card with his next workout plan
 3. Swipe left/right based on your interest
-4. Match one of them
 
 ### Scenario
 
