@@ -91,6 +91,7 @@ You're looking for a running partner who matches your pace and schedule. You pre
 2. Scroll through your workouts and other workouts joined events
 3. Open a chat, write a message
 4. See the runners that are in the group
+5. If you are the creator of the run event edit the details
 
 ### Scenario
 
