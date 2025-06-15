@@ -6,7 +6,7 @@ Project related to the examination of _Human Computer Interaction_ of the academ
 _FITM8_ Team - La Sapienza University. The project is organized by the following students:
 
 - **Zamparelli Fausto** $|$ GitHub Profile: [faustozamparelli](https://github.com/faustozamparelli)
-- **FarinolaDaniele** $|$ GitHub Profile: [danifari](https://github.com/danifari)
+- **Farinola Daniele** $|$ GitHub Profile: [danifari](https://github.com/danifari)
 - **Falbo Mario Daniel** $|$ GitHub Profile: [danielfalbo](https://github.com/danielfalbo)
 - **Maatkulov Beksultan** $|$ GitHub Profile: [Thebeks312](https://github.com/Thebeks312)
 - **Pompei Chiara** $|$ GitHub Profile: [ChiaraNwk](https://github.com/ChiaraNwk)
@@ -45,14 +45,14 @@ The procedure we were inspired to create the digital prototype is the Human-Cent
    - Documentation
 
 <p align="center">
-  <img width="875" alt="HumanCeneteredDesign" src="./img/HumanCenteredDesign.jpeg">
+  <img width="875" alt="HumanCenteredDesign" src="./img/HumanCenteredDesign.jpeg">
 </p>
 
 ## Procedure
 
 The basic steps of creating the digital prototype are as follows, click to see the folders material:
 
-1. [Needfinding](/Needfining-Interviews-Questionaires)
+1. [Needfinding](/Needfinding-Interviews-Questionnaires)
 2. [Storyboarding](/StoryBoarding)
 3. [Paper ProtoTyping](/PaperPrototypes)
 4. [Digital ProtoTyping](/DigitalPrototypes)
@@ -64,7 +64,7 @@ The basic steps of creating the digital prototype are as follows, click to see t
 ### Task
 
 1. Open the Create New Run pane
-2. Fill in the informations about your run
+2. Fill in the information about your run
 3. Scroll through your next workouts card in the home page
 
 ### Scenario
@@ -76,7 +76,7 @@ You're a regular runner who wants to plan a 5K run in Villa Borghese next Saturd
 ### Task
 
 1. Open the Discover modal view
-2. Check out the other runnner profile card with his next workout plan
+2. Check out the other runner's profile card with their next workout plan
 3. Swipe left/right based on your interest
 
 ### Scenario
@@ -91,7 +91,7 @@ You're looking for a running partner who matches your pace and schedule. You pre
 2. Scroll through your workouts and other workouts joined events
 3. Open a chat, write a message
 4. See the runners that are in the group
-5. If you are the creator of the run event edit the details
+5. If you are the creator of the run event, edit the details
 
 ### Scenario
 
