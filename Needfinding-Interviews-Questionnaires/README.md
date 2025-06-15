@@ -1,7 +1,7 @@
 # Needfinding
 
 <p align="center">
-  <img width="875" alt="Needfinding" src="./../img/Needfinding.jpg">
+  <img width="400" alt="Needfinding" src="./../img/Needfinding.jpg">
 </p>
 
 The first part of our work, called _Needfinding_, was based on two phases:
