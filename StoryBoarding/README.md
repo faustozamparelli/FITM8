@@ -41,9 +41,19 @@ The user communicates with a running partner or group to coordinate workout deta
 Scenario:
 You've joined a group run for a 10K training session in Villa Pamphili this Sunday, buth the weather app says that it will be raning... Use the app to see who is joining and coordinate with other participants about a possible reschedule.
 
-
 #### Older StoaryBoarding
+
 The older storyboards are found here:
 
 1. [Original Idea](./StoryBoards/OldStoryBoard.pdf)
 2. [Paper Sketch of the New Idea](./StoryBoards/PaperSketch.jpeg)
+
+### Logo Design
+<p align="center">
+  <img width="300" alt="StoryBoarind" src="./Logo/Logo1.jpeg">
+  <img width="300" alt="StoryBoarind" src="./Logo/Logo2.jpeg">
+</p>
+
+<p align="center">
+<img width="300" alt="StoryBoarind" src="./Logo/Sign_IN.jpeg">
+</p>
