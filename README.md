@@ -52,7 +52,7 @@ The procedure we were inspired to create the digital prototype is the Human-Cent
 
 The basic steps of creating the digital prototype are as follows, click to see the folders material:
 
-1. [Needfinding](/Needfinding-Interviews-Questionnaires)
+1. [Needfinding](/Needfinding)
 2. [Storyboarding](/StoryBoarding)
 3. [Paper ProtoTyping](/PaperPrototypes)
 4. [Digital ProtoTyping](/DigitalPrototypes)
