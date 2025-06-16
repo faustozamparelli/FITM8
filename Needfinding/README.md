@@ -72,6 +72,10 @@ In order to maximize participation and engagement, we decided to include a playf
 
 To ensure responses were as objective and reliable as possible, we deliberately limited the questionnaire to questions about users' past behaviors and experiences, avoiding those related to future intentions or hypothetical scenarios. This approach proved to be effective, and we collected a total of **174 responses**, providing us with a rich set of data to analyze user needs and validate the direction of our project.
 
+
+[You can take the Quesionnaire by clicking here](https://hci-service.vercel.app/form/fitm8)
+
+
 ## Findings
 
 Based on the responses collected through our questionnaire, we began to identify the key needs expressed by young users interested in fitness and well-being — particularly those aged 18 to 30, who represented 87.4% of respondents.
