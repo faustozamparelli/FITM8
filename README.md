@@ -20,6 +20,8 @@ The theme for the app design process this year was: **Fitness & Nutrition**
   <img width="875" alt="ProjectFlowChart" src="./img/FullProjectOutline.png">
 </p>
 
+For an in detailed description of what we did please read: [the report](/Report.pdf)
+
 ## Human-Centered Design Process
 
 The procedure we were inspired to create the digital prototype is the Human-Centered Design Process:
@@ -68,6 +70,8 @@ The basic steps of creating the digital prototype are as follows, click to see t
 1. Open the Create New Run pane
 2. Fill in the information about your run
 3. Scroll through your next workouts card in the home page
+4. Click on the workout you just created
+5. Edit the workout you just created
 
 ### Scenario
 
@@ -87,6 +91,7 @@ You're a regular runner who wants to plan a 5K run in Villa Borghese next Saturd
 1. Open the Discover modal view
 2. Check out the other runner's profile card with their next workout plan
 3. Swipe left/right based on your interest
+4. Join a run and go in the chat tab to see it
 
 ### Scenario
 
@@ -107,7 +112,7 @@ You're looking for a running partner who matches your pace and schedule. You pre
 2. Scroll through your workouts and other workouts joined events
 3. Open a chat, write a message
 4. See the runners that are in the group
-5. If you are the creator of the run event, edit the details
+5. Leave the group
 
 ### Scenario
 
