@@ -59,6 +59,8 @@ The basic steps of creating the digital prototype are as follows, click to see t
 
 # Final Results and Testing
 
+## Final Results
+
 ## Testing 1: Plan your new workout, joinable by future runners.
 
 ### Task
@@ -71,6 +73,13 @@ The basic steps of creating the digital prototype are as follows, click to see t
 
 You're a regular runner who wants to plan a 5K run in Villa Borghese next Saturday morning. You'd like to invite other runners to join you for motivation and company. Use the app to create a new workout event and share it with the community.
 
+<p align="center">
+  <video width="300" controls>
+    <source src="./demo/Testing1.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
 ## Testing 2: Find a suitable partner you would like to join on a run
 
 ### Task
@@ -82,6 +91,13 @@ You're a regular runner who wants to plan a 5K run in Villa Borghese next Saturd
 ### Scenario
 
 You're looking for a running partner who matches your pace and schedule. You prefer morning runs around 7 AM and can maintain a 5:30 min/km pace. Use the app to find and connect with compatible runners in your area.
+
+<p align="center">
+  <video width="300" controls>
+    <source src="./demo/Testing2.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
 
 ## Testing 3: Chat with your future running partner/group
 
@@ -96,3 +112,10 @@ You're looking for a running partner who matches your pace and schedule. You pre
 ### Scenario
 
 You've joined a group run for a 10K training session in Villa Ada this weekend. Use the app to see who is joining and coordinate with other participants about meeting points, pace expectations, and any last-minute changes to the plan.
+
+<p align="center">
+  <video width="300" controls>
+    <source src="./demo/Testing3.mov" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
