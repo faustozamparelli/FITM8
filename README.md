@@ -103,10 +103,9 @@ You're looking for a running partner who matches your pace and schedule. You pre
 ### Task
 
 1. Open the chat tab
-2. Scroll through your workouts and other workouts joined events
+2. Scroll through your workouts and other workouts joined events & leave one
 3. Open a chat, write a message
 4. See the runners that are in the group
-5. Leave the group
 
 ### Scenario
 
